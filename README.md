@@ -1,4 +1,4 @@
-functional-programming
+Functional Programming
 ======================
 
-Repo para añadir ejemplos de programación funcional
+Ejemplos de programación funcional
