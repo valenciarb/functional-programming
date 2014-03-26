@@ -1,9 +1,10 @@
 class Fibonacci
   previousNumber: 0
-  nextNumber: 1
+  nextNumber: 0
 
   next: =>
     [@nextNumber, @previousNumber] = [@nextNumber + @previousNumber, @nextNumber]
+    @previousNumber = 1 if @nextNumber is 0
     @nextNumber
 
 class Iterator

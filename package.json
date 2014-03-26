@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "node-chrono": "0.0.3"
+    "node-chrono": "0.0.3",
+    "lodash": "^2.4.1"
   }
 }
