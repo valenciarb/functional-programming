@@ -15,7 +15,7 @@ class Iterator
     sequence.next() for i in Array(n)
 
 
-TOTAL_NUMBERS_TO_GET = 10000000
+TOTAL_NUMBERS_TO_GET = 3000
 
 crono = require "node-chrono"
 
